@@ -19,7 +19,10 @@ Things have changes since cura 2.3. For this version we just need resources/defi
 
 ### Script
 
-OSX
+The script will automatically add the machine profile file into the correct folder.
+Restart Cura after running the script and `MP Select Mini` should be available in the supported printers list.
+
+* OSX
 
 ```
 ./scripts/macos.sh
