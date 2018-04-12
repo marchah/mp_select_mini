@@ -16,3 +16,11 @@ Putting these files in ~/.local/share/cura/resources... doesn't seem to work.
 cura 2.3 and higher
 ======================
 Things have changes since cura 2.3. For this version we just need resources/definitions/mp_select_mini.def.json
+
+### Script
+
+OSX
+
+```
+./scripts/macos.sh
+```
